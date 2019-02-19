@@ -7,7 +7,7 @@
 ![](assets/img/presentation.png)
 
 ---
-@title[Customize Slide Layout]
+@title[Customize Dom's Slide Layout]
 
 @snap[west span-50]
 ## Customize Slide Content Layout
